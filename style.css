@@ -21,6 +21,10 @@ html, body{
 	overflow-y: auto;
 }
 
+.body {
+	background-image: url("./images/991734.jpg");
+  }
+
 .nav{
 	width: 350px;
 	height: auto;
